@@ -1,0 +1,29 @@
+Here are the car codes! Please input 1 of these
+A, B, C, D, E, E6, F, G, P4, G4, O4, H, O4, V4, V, Q4, L, L4, T, T6, H4, K4, P6, R, M, O6, S, U
+-------------------------------------------------------------------------------
+A: City Car
+B: Little Car
+C: Mid-size Car
+D: Standard Car
+E: Hybrid Car
+E6: Electric car
+F: Full Size Car
+G: Premium Car
+P4: Compact Luxury Car
+G4: Midsize Luxury Car
+O4: Fullsize Luxury Car
+V4: Muscle Coupe
+V: Offroad
+Q4: Small SUV
+L: 5 Passenger SUV
+L4: 7 Passenger SUV
+T: Large SUV
+T6: Extended SUV
+H4: Compact Luxury SUV
+K4: Midsize Luxury SUV
+P6: Fullsize Luxury SUV
+R: Minivan
+M: Fullsize Van
+O6: Midsize Pickup
+S: Fullsize Pickup
+U: Convertible

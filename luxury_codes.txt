@@ -1,0 +1,6 @@
+P4: Compact Luxury Car
+G4: Midsize Luxury Car
+O4: Fullsize Luxury Car
+H4: Compact Luxury SUV
+K4: Midsize Luxury SUV
+P6: Fullsize Luxury SUV

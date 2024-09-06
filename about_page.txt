@@ -1,0 +1,16 @@
+    Information:
+
+    - This program was made for people who are very curious on the car they selected from the website. I wanted to give you a clearer picture of what rental car you will get when you select your class. Despite having one class, some cars are much higher rated than another car.
+
+    - My hope is that you get a sweet rental car or you can also negotiate yourself for a certain model if they do have one in stock.
+
+    - Keep in mind, you may want to search the 
+    entire rental car field out 
+
+    - Here are the codes for the rental car class that you may input:
+    A, B, C, D, E, E6, F, G, H, O4, V4, V, Q4, L, L4, T, T6, H4, K4, P6, R, M, O6, S, U
+
+    -----------------------------------------------------------------------------------------------------
+    NEW / UPCOMING FEATURES LIST: We will be updating this page when new features will roll out on our app. Stay tuned :)
+
+

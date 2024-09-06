@@ -1,0 +1,4 @@
+This is the midsize pickup truck class. These trucks aren't the most utilitarian but are small enough so
+you feel like your driving more of a car than an actual big truck. The options are the Chevrolet Colorado LT,
+GMC Canyon SLE, Nissan Frontier SV and the Toyota Tacoma TRD Offroad. The Tacoma is the best shot.
+Its got the most offroad gear just in case you want to take it to the trail, plus its got a nice V6

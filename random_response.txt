@@ -1,0 +1,4 @@
+Since you have picked the manager special, you will get a random class of car.
+Please input 'codes' to see the codes you will end up seeing
+You have been assigned a random car class: M
+This is the Fullsize Van class, and you can only get a Ford Transit 12 Seat van as your option.
